@@ -19,6 +19,9 @@
     "semantic-ui-react": "^2.1.4",
     "web-vitals": "^2.1.4"
   },
+  "engines": {
+  "node": "14.x"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "CI=false react-scripts build",
